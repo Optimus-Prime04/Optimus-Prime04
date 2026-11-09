@@ -109,7 +109,25 @@ Create custom football formations, player lineups, and export team sheets.
 
 </div>
 
-## 05 / Current Learning
+## 05 / Hackatime Coding Activity
+
+<div align="center">
+
+<a href="https://hackati.me/Optimus-Prime">
+  <img src="https://img.shields.io/badge/HACKATIME-Coding%20Stats-101820?style=for-the-badge&logo=clockify&logoColor=58C7F3" alt="Hackatime coding stats" />
+</a>
+
+<br/>
+
+<a href="https://hackati.me/Optimus-Prime">
+  **View my live Hackatime profile →**
+</a>
+
+Track my coding activity, language breakdown, and project time on Hackatime.
+
+</div>
+
+## 06 / Current Learning
 
 - Embedded sensing and telemetry systems
 - Flight-stability measurement and data analysis
