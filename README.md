@@ -25,66 +25,7 @@ I enjoy turning ideas into working systems: understanding the problem, designing
 - 🌱 Strengthening my foundations in programming, mathematics, and system design.
 - 🌐 Portfolio: **[aadhithya.xyz](https://aadhithya.xyz)**
 
-## 02 / Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ [ASTRA-1](https://github.com/Optimus-Prime04/ASTRA-1)
-An ESP32-based embedded flight-computer prototype for sensor measurements and telemetry logging.
-
-**Focus:** Embedded C++ · ESP32 · Sensors · Telemetry
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [Screen Time](https://github.com/Optimus-Prime04/watch-your-screen-time)
-A local-first device activity tracker designed around privacy, modular components, and usage insights.
-
-**Focus:** Python · Local-first software · Data visualization
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✈️ [IMU Flight Stability Analysis](https://github.com/Optimus-Prime04/IMU-Based-Flight-Stability-Analysis-of-a-Fixed-Wing-Glider)
-A sensor-based project to measure and analyze fixed-wing glider stability using inertial data.
-
-**Focus:** IMU · Arduino · Data analysis
-
-</td>
-<td width="50%" valign="top">
-
-### 🧭 [Career Compass](https://github.com/Optimus-Prime04/career-compass)
-An AI-powered career exploration platform with personalized recommendations and roadmaps.
-
-**Focus:** AI · Product development · Web
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚽ [FIFA Card Generator](https://github.com/Optimus-Prime04/fifa-card-generator)
-Create custom football player cards and export them as images.
-
-**Focus:** HTML · CSS · JavaScript
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 [FIFA Lineup Generator](https://github.com/Optimus-Prime04/Fifa-lineup-generator)
-Create custom football formations, player lineups, and export team sheets.
-
-**Focus:** HTML · CSS · JavaScript
-
-</td>
-</tr>
-</table>
-
-## 03 / Technology Stack
+## 02 / Technology Stack
 
 <div align="center">
 
@@ -96,7 +37,7 @@ Create custom football formations, player lineups, and export team sheets.
 
 </div>
 
-## 04 / Hackatime Coding Activity
+## 03 / Hackatime Coding Activity
 
 <div align="center">
 
@@ -114,7 +55,7 @@ Track my coding activity, language breakdown, and project time on Hackatime.
 
 </div>
 
-## 05 / Current Learning
+## 04 / Current Learning
 
 - Embedded sensing and telemetry systems
 - Flight-stability measurement and data analysis
