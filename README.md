@@ -96,20 +96,7 @@ Create custom football formations, player lineups, and export team sheets.
 
 </div>
 
-## 04 / GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Optimus-Prime04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58C7F3&icon_color=58C7F3&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Optimus-Prime04&layout=compact&hide_border=true&bg_color=0D1117&title_color=58C7F3&text_color=C9D1D9" alt="Most used languages" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Optimus-Prime04&hide_border=true&background=0D1117&ring=58C7F3&fire=58C7F3&currStreakLabel=58C7F3&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Optimus-Prime04&bg_color=0D1117&color=C9D1D9&line=2F81F7&point=58C7F3&area=true&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
-## 05 / Hackatime Coding Activity
+## 04 / Hackatime Coding Activity
 
 <div align="center">
 
@@ -127,7 +114,7 @@ Track my coding activity, language breakdown, and project time on Hackatime.
 
 </div>
 
-## 06 / Current Learning
+## 05 / Current Learning
 
 - Embedded sensing and telemetry systems
 - Flight-stability measurement and data analysis
