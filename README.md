@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,45:102B45,100:00B8D9&height=190&section=header&text=AADHITHYA&fontSize=48&fontColor=EAF6FF&animation=fadeIn&fontAlignY=36&desc=STUDENT%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER%20%7C%20BUILDER&descSize=14&descAlignY=60" width="100%" />
 
-<a href="https://aadhithya.xyz"><img src="https://img.shields.io/badge/PORTFOLIO-aadhithya.xyz-101820?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://aadhithya.xyz"><img src="https://img.shields.io/badge/WEBSITE -aadhithya.xyz-101820?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Optimus-Prime04"><img src="https://img.shields.io/badge/GITHUB-Optimus--Prime04-101820?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/>
